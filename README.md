@@ -12,5 +12,5 @@ cd build; cmake ..; make; cd ..
 python foo.py
 ```
  
-
-
+3. BOOST_PYTHON_MODULE
+Another way from Boost in c++
