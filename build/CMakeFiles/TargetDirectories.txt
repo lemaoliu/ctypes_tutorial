@@ -1,0 +1,3 @@
+/data1/redmondliu/tools/word-aligner/build/CMakeFiles/edit_cache.dir
+/data1/redmondliu/tools/word-aligner/build/CMakeFiles/rebuild_cache.dir
+/data1/redmondliu/tools/word-aligner/build/CMakeFiles/foo.dir
