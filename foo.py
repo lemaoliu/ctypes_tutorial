@@ -21,6 +21,8 @@ class Foo(object):
         return lib.Foo_foobar(self.obj, val)
 
     def show(self, val):
+        # for python3 I have to encode ascii or utf-8 before passing
+        val = str(val).encode("utf-8")
         return lib.Foo_show(self.obj, val)
 
 a = Foo(4)
